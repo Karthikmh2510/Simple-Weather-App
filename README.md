@@ -117,15 +117,6 @@ Replace `app.py` with the name of your Python file if it's different. The applic
 1. **OpenWeatherMap API**: Provides current weather data and 5-day weather forecasts. [OpenWeatherMap Documentation](https://openweathermap.org/api)
 2. **Unsplash API**: Provides high-quality images based on search queries. [Unsplash API Documentation](https://unsplash.com/developers)
 
-## Contributing
-
-Feel free to submit issues, fork the repository, and send pull requests. Contributions are highly appreciated!
-
-1. Fork the Project.
-2. Create your Feature Branch (`git checkout -b feature/your-feature`).
-3. Commit your Changes (`git commit -m 'Add some feature'`).
-4. Push to the Branch (`git push origin feature/your-feature`).
-5. Open a Pull Request.
 
 ## License
 
