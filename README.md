@@ -135,8 +135,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Karthik Manjunath Hadagali - [karthik.m.hadagali2013@example.com](mailto:karthik.m.hadagali2013@example.com)
 
-Project Link: [https://github.com/your-username/enhanced-weather-app](https://github.com/your-username/enhanced-weather-app)
+Project Link: [https://github.com/karthikmh2510/simple-weather-app](https://github.com/karthikmh2510/simple-weather-app)
 
----
-
-Replace `your-username` with your GitHub username and `your-email@example.com` with your email address. Feel free to modify the content as needed for your project!
