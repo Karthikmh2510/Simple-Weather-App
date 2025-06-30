@@ -120,7 +120,7 @@ Replace `app.py` with the name of your Python file if it's different. The applic
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
